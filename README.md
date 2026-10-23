@@ -39,7 +39,7 @@ java -cp src AdivinaNumero
 
 ## Ejemplo de uso
 
-********Adivina el número********
+********Adivina el número********\
 ingresa el numero del (1-100) hasta ganar!\
 escribe 'salir' para hacerlo.\
 Generando numero...\
