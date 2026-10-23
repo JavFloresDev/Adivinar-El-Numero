@@ -40,26 +40,26 @@ java -cp src AdivinaNumero
 ## Ejemplo de uso
 
 ********Adivina el número********
-ingresa el numero del (1-100) hasta ganar!
-escribe 'salir' para hacerlo.
-Generando numero...
-Numero Generado...
-Ingresar
----> t
-Volver a intentar....
----> 8
-es mayor
----> 10
-es menor
----> 9
-Ganaste!!
-Deseas volver a jugar s/n: "s"
-Generando numero...
-Numero Generado...
-Ingresar
----> hola
-Volver a intentar....
----> salir
+ingresa el numero del (1-100) hasta ganar!\
+escribe 'salir' para hacerlo.\
+Generando numero...\
+Numero Generado...\
+Ingresar\
+---> t\
+Volver a intentar....\
+---> 8\
+es mayor\
+---> 10\
+es menor\
+---> 9\
+Ganaste!!\
+Deseas volver a jugar s/n: "s"\
+Generando numero...\
+Numero Generado...\
+Ingresar\
+---> hola\
+Volver a intentar....\
+---> salir\
 Adios...
 
 ## Estructura del proyecto
