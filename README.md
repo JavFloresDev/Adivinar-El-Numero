@@ -42,7 +42,6 @@ java -cp src AdivinaNumero
 ********Adivina el número********
 ingresa el numero del (1-100) hasta ganar!
 escribe 'salir' para hacerlo.
-_____________________________________________
 Generando numero...
 Numero Generado...
 Ingresar
@@ -54,7 +53,6 @@ es mayor
 es menor
 ---> 9
 Ganaste!!
-_____________________________________________
 Deseas volver a jugar s/n: "s"
 Generando numero...
 Numero Generado...
@@ -62,7 +60,6 @@ Ingresar
 ---> hola
 Volver a intentar....
 ---> salir
-_____________________________________________
 Adios...
 
 ## Estructura del proyecto
