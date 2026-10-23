@@ -30,7 +30,7 @@ cd Adivinar-El-Numero
 ```
 3. Compila el programa:
 ```bash
-javac --release 11 src\AdivinaNumero.java
+javac --release 11 src/AdivinaNumero.java
 ```
 4. Ejecuta el programa: 
 ```bash
@@ -74,7 +74,8 @@ Adivina-El-Numero/
 
 ## Capturas de pantalla
 
-![Calculadora en funcionamiento](images/calculadora.png)
+Funcionamiento del Juego\
+![Juego de adivinar](images/juego.png)
 
 ## Autor
 
