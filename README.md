@@ -26,27 +26,51 @@ git clone https://github.com/JavFloresDev/Adivinar-El-Numero
 ```
 2. Entrar a la carpeta del proyecto:
 ```bash
-cd Adivinar-El-Numero/src/Adivinanzas
+cd Adivinar-El-Numero
 ```
 3. Compila el programa:
 ```bash
-javac --release 11 NewMain.java
+javac --release 11 src\AdivinaNumero.java
 ```
 4. Ejecuta el programa: 
 ```bash
-java -cp src NewMain
+java -cp src AdivinaNumero
 ```
 
 ## Ejemplo de uso
 
-
+********Adivina el número********
+ingresa el numero del (1-100) hasta ganar!
+escribe 'salir' para hacerlo.
+_____________________________________________
+Generando numero...
+Numero Generado...
+Ingresar
+---> t
+Volver a intentar....
+---> 8
+es mayor
+---> 10
+es menor
+---> 9
+Ganaste!!
+_____________________________________________
+Deseas volver a jugar s/n: "s"
+Generando numero...
+Numero Generado...
+Ingresar
+---> hola
+Volver a intentar....
+---> salir
+_____________________________________________
+Adios...
 
 ## Estructura del proyecto
 
 ```
-calculadora-basica-java/
+Adivina-El-Numero/
 ├── src/
-│   └── Calculadora.java
+│   └── AdivinaNumero.java
 ├── README.md
 └── LICENSE
 ```
