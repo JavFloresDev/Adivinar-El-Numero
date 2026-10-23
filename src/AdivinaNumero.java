@@ -1,5 +1,3 @@
-package Adivinanzas;
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -7,13 +5,8 @@ import java.util.Scanner;
  *
  * @author bossjjfl
  */
-public class NewMain {
-    /**
-     * @param args the command line arguments
-     */
+public class AdivinaNumero {
     public static void main(String[] args) {
-        // TODO code application logic here
-        //Variables
         Scanner entrada = new Scanner(System.in);
         String opc;
         int numAle, num1, intentos=0;
@@ -69,5 +62,5 @@ public class NewMain {
         }
         System.out.println("_____________________________________________\nAdios...");
         entrada.close();
-    }  
+    }
 }
